@@ -88,7 +88,7 @@
 
 ## 4. Результат
 
-Для отображения интерактивных графиков ссылка на ноутбук через сервис nbviewer: [Project_2.ipynb](https://nbviewer.org/github/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/5baa8e7f07e70ff5c3977a9678a6f45969b43a43/Project_2.ipynb)             
+Для отображения интерактивных графиков ссылка на ноутбук через сервис nbviewer: [Project_2.ipynb](https://nbviewer.org/github/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/e0258571dd62c89e067b3e6694b00152d82255a3/Project_2.ipynb)             
 Ссылка на ноутбук с решением на github: [Project_2.ipynb](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/master/Project_2.ipynb).                
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/master/requirements.txt).                        
 

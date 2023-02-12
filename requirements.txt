@@ -89,7 +89,6 @@ PyGObject==3.42.2
 PyJWT==2.4.0
 pyparsing==3.0.7
 pyrsistent==0.19.3
-python-apt==2.4.0+22.10
 python-dateutil==2.8.2
 python-debian==0.1.46
 python-json-logger==2.0.4

@@ -17,7 +17,7 @@
 
 Кадровое агентство, подбирающее вакансии для IT-специалистов, создаёт модель машинного обучения, которая будет рекомендовать вакансии клиентам агентства,претендующим на позицию Data Scientist. До построения модели необходимо понять, что из себя представляют данные и насколько они соответствуют целям проекта. В литературе эта часть работы над ML-проектом называется Data Understanding, или анализ данных. 
 
- :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+ :arrow_up:[ к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
 ## 2. Описание задачи
@@ -41,7 +41,7 @@
  * Выводы можно дополнительно проиллюстрировать с помощью графиков. Они оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
  * Не забудьте удалить ячейку с данными соединения перед фиксацией работы в GitHub.
        
- :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)    
+ :arrow_up:[ к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)    
 
 
 ## 3. Описание данных
@@ -83,7 +83,7 @@
 
 Эта таблица нужна нам, поскольку у одного работодателя может быть несколько сфер деятельности (или работодатели могут вовсе не указать их). Для удобства анализа необходимо хранить запись по каждой сфере каждого работодателя в отдельной строке таблицы.
         
- :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+ :arrow_up:[ к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
 ## 4. Результат
@@ -92,7 +92,7 @@
 Ссылка на ноутбук с решением на github: [Project_2.ipynb](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/master/Project_2.ipynb).                
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter/blob/master/requirements.txt).                        
 
- :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
+ :arrow_up:[ к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
 
 
 ## 5. Выводы
@@ -101,4 +101,4 @@
       
 Почта для обратной связи: vasilevdma82@gmail.com                 
 
- :arrow_up:[к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)  
+ :arrow_up:[ к содержанию](https://github.com/DmitVasilev/Project_2-Analysis-resume-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)  
